@@ -1,7 +1,5 @@
-A simple folder comprised of simple projects like a weather app, or various functions popularly used in web dev like review caraousel
-
-Currently done:
-
+A simple folder comprised of simple projects like a weather app, or various functions popularly used in web dev like review caraousel\
+Currently done:\
 canvas\
 colorflipper\
 counter\
