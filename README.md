@@ -18,6 +18,8 @@ todo list
 
 weather app
 
+Rock Paper Scissors
+
 
 # Getting Started with Create React App
 
