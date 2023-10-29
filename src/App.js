@@ -8,6 +8,8 @@ import DigitalClock from './digital_clock';
 import Todo from './Todo';
 import './App.css';
 import Weather from './weather.js';
+import Rps from './rps.js';
+
 function App() {
   return (
     <div className="App">
@@ -23,6 +25,7 @@ function App() {
       <br></br>
       <br></br>
       <Weather />
+      <Rps />
 
     </div>
 

@@ -5,6 +5,9 @@ const DigitalClock = () => {
 
     const updateTime = () => {
         setTime(new Date().toLocaleTimeString());
+        
+        // without seconds
+        //setTime(new Date().toLocaleTimeString([], {hour: '2-digit', minute:'2-digit'});
     }
 
     setInterval(updateTime, 1000);

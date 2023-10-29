@@ -1,0 +1,70 @@
+header {
+    font-size: 20px;
+    background-color: white;
+}
+
+
+.choices {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.rock img {
+    width: 100px;
+    border: 5px solid red;
+    border-radius: 50%;
+    margin-right: 5px;
+    
+}
+
+.paper img {
+    width: 100px;
+    border: 5px solid green;
+    border-radius: 50%;
+    margin-right: 5px;
+}
+
+.scissors img {
+    width: 100px;
+    border: 5px solid blue;
+    border-radius: 50%;
+    
+}
+
+.Score {
+    border: 5px solid black;
+    margin: 10px auto;
+    width: 200px;
+    font-size: 20px;
+    border-radius: 5px;
+    padding: 15px 20px;
+    position: relative;
+}
+
+.player {
+    background: red;
+    color: white;
+    padding: 3px 10px;
+    border-radius: 5px;
+}
+
+#user {
+    position: absolute;
+    top: 13px;
+    left: -30px;
+
+}
+
+#cpu {
+    position: absolute;
+    top: 13px;
+    right: -30px;
+}
+
+.result {
+    margin: 20px;
+    font-size: larger;
+    font-weight: bold;
+}
