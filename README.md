@@ -2,22 +2,14 @@ A simple folder comprised of simple projects like a weather app, or various func
 
 Currently done:
 
-canvas
-
-colorflipper
-
-counter
-
-digital clock
-
-modals
-
-review carasouel
-
-todo list
-
-weather app
-
+canvas\
+colorflipper\
+counter\
+digital clock\
+modals\
+review carasouel\
+todo list\
+weather app\
 Rock Paper Scissors
 
 
