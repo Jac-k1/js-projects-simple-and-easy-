@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import ColorFlipper from './ColorFlipper';
 import Counter from './Counter';
 import Review from './Review';
@@ -9,6 +8,7 @@ import Todo from './Todo';
 import './App.css';
 import Weather from './weather.js';
 import Rps from './rps.js';
+import Tetris from './tetris/Tetris.js'
 
 function App() {
   return (
@@ -26,6 +26,7 @@ function App() {
       <br></br>
       <Weather />
       <Rps />
+      <Tetris />
 
     </div>
 
