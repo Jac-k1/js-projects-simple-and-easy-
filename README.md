@@ -1,22 +1,14 @@
-A simple folder comprised of simple projects like a weather app, or various functions popularly used in web dev like review caraousel
-
-Currently done:
-
-canvas
-
-colorflipper
-
-counter
-
-digital clock
-
-modals
-
-review carasouel
-
-todo list
-
-weather app
+A simple folder comprised of simple projects like a weather app, or various functions popularly used in web dev like review caraousel\
+Currently done:\
+canvas\
+colorflipper\
+counter\
+digital clock\
+modals\
+review carasouel\
+todo list\
+weather app\
+Rock Paper Scissors
 
 
 # Getting Started with Create React App
