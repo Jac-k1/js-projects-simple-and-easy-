@@ -2,6 +2,7 @@ export const STAGE_WIDTH = 12;
 export const STAGE_HEIGHT = 20;
 
 export const createStage = () =>
+    //create a 2d array with cell values of [0, 'clear']
     Array.from(Array(STAGE_HEIGHT), () =>
         new Array(STAGE_WIDTH).fill([0, 'clear'])
     );

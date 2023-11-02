@@ -27,9 +27,7 @@ function App() {
       <Weather />
       <Rps />
       <Tetris />
-
     </div>
-
   );
 }
 
